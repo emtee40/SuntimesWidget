@@ -783,11 +783,11 @@
     <string name="configLabel_ui_showdatasource_summary">Show a label indicating the current configuration.</string>
 
     <!-- App Setting: show golden hour -->
-    <string name="configLabel_ui_showgoldhour">Show Golden Hour</string>
+    <string name="configLabel_ui_showgoldhour">Golden Hour</string>    <!-- TODO -->
     <string name="configLabel_ui_showgoldhour_summary">Show golden hour times.</string>
 
     <!-- App Setting: show blue hour -->
-    <string name="configLabel_ui_showbluehour">Show Blue Hour</string>
+    <string name="configLabel_ui_showbluehour">Blue Hour</string>  <!-- TODO -->
     <string name="configLabel_ui_showbluehour_summary">Show blue hour times.</string>
 
     <!-- App Setting: UI Theme -->
@@ -1302,6 +1302,10 @@
           <b>Nautical Twilight:</b> The sun is 12 degrees below the horizon; object outlines and the horizon are increasingly indistinct. There isn\'t enough light for most outdoor activities without requiring a light.<br/><br/>
           <b>Astronomical Twilight:</b> The sun is 18 degrees below the horizon. Near darkness of night.<br/>
     ]]></string>
+    <string name="help_general_riseSetOrder"><![CDATA[
+          <b>Today:</b> Rising and setting event times for today\'s date.<br/><br/>
+          <b>Last / Next:</b> The time of the last event, and the next upcoming event.<br/>
+    ]]></string>  <!-- TODO -->
 
     <string name="help_general_timeMode2"><![CDATA[
           <b>Spring Equinox:</b> TODO.<br/><br/>
